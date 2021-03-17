@@ -2,7 +2,9 @@
 
 <!-- sep -->
 
-**Experimental** Android/IOS apps template based on [ringcentral-engage-voice-embeddable](https://github.com/ringcentral/engage-voice-embeddable) and cordova
+**Experimental** Android/IOS apps template based on [ringcentral-engage-voice-embeddable](https://github.com/ringcentral/engage-voice-embeddable) and cordova, you can use our [ringcentral-embeddable-mobile-framework](https://github.com/ringcentral/ringcentral-embeddable-mobile-framework) to create your own mobile app project in one line command.
+
+![ ](https://github.com/ringcentral/ringcentral-embeddable-mobile-framework/raw/main/screenshots/s2.png)
 
 ## Demo video
 
@@ -82,7 +84,7 @@ Just deploy the `deploy` folder to your server/serverless or any platform.
 - **Edit icon/splash**: Just replace [src/app/icon.png](src/app/icon.png) or [src/app/splash.png](src/app/splash.png)
 - **Edit config/plugin**: Edit [src/app/config.xml](src/app/config.xml)
 - **Add more server side function**: Edit [src/server/app/app.js](src/server/app/app.js)
-- **Add more front end functions**: Edit [src/client/extra/index.js](src/client/extra/index.js)
+- **Add more front end functions**: Edit [src/client/extra/index.js](src/client/extra/index.js), also check [ringcentral-engage-voice-embeddable docs](https://github.com/ringcentral/engage-voice-embeddable)
 
 ## License
 
